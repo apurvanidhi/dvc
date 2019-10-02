@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 from setuptools.command.build_py import build_py as _build_py
 import os
 import sys
-
+#Don't mind,friendly contribution for Hacktoberfest2019 
 # Prevents pkg_resources import in entry point script,
 # see https://github.com/ninjaaron/fast-entry_points.
 # This saves about 200 ms on startup time for non-wheel installs.
